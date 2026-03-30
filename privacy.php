@@ -107,7 +107,7 @@
                 <h2 class="text-2xl font-semibold text-gray-200 mb-4">7. Come Esercitare i Tuoi Diritti</h2>
                 <p class="text-gray-300 leading-relaxed">
                     Per esercitare i diritti sopra elencati, contattaci creando un issue nel nostro 
-                    <a href="https://github.com/alessiotortolini/wadoryu.it" target="_blank" class="text-blue-400 hover:text-blue-300 underline">repository GitHub</a>.
+                    <a href="https://github.com/alestormoody/wadoryu.it" target="_blank" class="text-blue-400 hover:text-blue-300 underline">repository GitHub</a>.
                     Nel tuo issue, specifica:
                 </p>
                 <ul class="list-disc list-inside text-gray-300 space-y-2 ml-4 my-3">
@@ -169,7 +169,7 @@
                     Se hai domande su questa Privacy Policy o su come trattiamo i tuoi dati, contattaci tramite:
                 </p>
                 <ul class="list-disc list-inside text-gray-300 space-y-2 ml-4">
-                    <li><strong>GitHub Issues:</strong> <a href="https://github.com/alessiotortolini/wadoryu.it/issues" target="_blank" class="text-blue-400 hover:text-blue-300 underline">Crea un Issue</a> per domande, richieste di accesso ai dati, o esercitare i tuoi diritti GDPR</li>
+                    <li><strong>GitHub Issues:</strong> <a href="https://github.com/alestormoody/wadoryu.it/issues" target="_blank" class="text-blue-400 hover:text-blue-300 underline">Crea un Issue</a> per domande, richieste di accesso ai dati, o esercitare i tuoi diritti GDPR</li>
                 </ul>
             </section>
 

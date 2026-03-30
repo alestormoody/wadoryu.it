@@ -211,7 +211,7 @@
                     Se hai domande su questa Cookie Policy o su come utilizziamo i cookie, contattaci tramite:
                 </p>
                 <ul class="list-disc list-inside text-gray-300 space-y-2 ml-4">
-                    <li><strong>GitHub Issues:</strong> <a href="https://github.com/alessiotortolini/wadoryu.it/issues" target="_blank" class="text-blue-400 hover:text-blue-300 underline">Crea un Issue</a> per domande o feedback sulla nostra cookie policy</li>
+                    <li><strong>GitHub Issues:</strong> <a href="https://github.com/alestormoody/wadoryu.it/issues" target="_blank" class="text-blue-400 hover:text-blue-300 underline">Crea un Issue</a> per domande o feedback sulla nostra cookie policy</li>
                 </ul>
             </section>
 
